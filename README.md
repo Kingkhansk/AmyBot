@@ -1,2 +1,2 @@
 # AmyBot
-cfvgsdg
+It is made for raspberry pi 
