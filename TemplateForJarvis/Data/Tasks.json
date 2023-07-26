@@ -1,0 +1,49 @@
+{
+    "intents":[
+        {
+            "tag":"hello",
+            "patterns":["hello","hi","hey","Hi there"
+            ],
+            "responses":["Hello sir!",
+                "hey, I was really waiting for your presence",
+                "hey, I was literally waiting for your presence",
+                "hey, I was waiting for your presence",
+                "hey, I was waiting for you",
+                "hello, I was waiting for you",
+                "hello dear, Nice meeting you again",
+                "hello dear, Nice to meet you",
+                "Hello",
+                "Hey what's up dear"
+            ]
+        },
+        {
+            "tag":"bye",
+            "patterns":["bye","goodbye","see you later","sleep","exit"
+            ],
+            "responses":["bye",
+                "Are you sure?",
+                "I am Amy and here's my Bye",
+                "bye dear, I will be there for you again",
+                "dear, good bye",
+                "Ok dear, It will be nice to meet you again",
+                "see you later dear"
+            ]
+        },
+        {
+            "tag":"haalchaal",
+            "patterns":["how are you","fine","how do you do"
+            ],
+            "responses":["I'm fine",
+                "Fine"
+            ]
+        },
+        {
+            "tag":"About me",
+            "patterns":["what is your name","who are you","tell me something about yourself"
+            ],
+            "responses":["I am Amy the Tutor BOT",
+                "My name is Amy"
+            ]
+        }
+    ]
+}
