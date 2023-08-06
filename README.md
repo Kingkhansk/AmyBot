@@ -1,7 +1,7 @@
 
  
 # AMY - An AI Assistant for Autism Impaired Children
-It is made for raspberry pi
+It is made for raspberry pi <br>
 This is a Python script that implements an AI assistant called AMY, designed to assist autism-impaired children with various tasks.
 
 ## Features
@@ -23,7 +23,7 @@ AMY has the following features:
 
 ## Usage
 
-1. Clone the repository or download the script from [here](URL-to-the-script).
+1. Clone the repository or download the script from [here](https://github.com/Kingkhansk/AmyBot.git).
 2. Ensure you have the required Python libraries installed by running
    - pip install openai
    - pip install python-dotenv
