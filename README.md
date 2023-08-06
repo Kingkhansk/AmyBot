@@ -6,7 +6,7 @@ This is a Python script that implements an AI assistant called AMY, designed to 
 
 ## Features
 
-<h1 style = color: #f00;>AMY has the following features:</h1>
+AMY has the following features:
 - Time display
 - Web browsing
 - Application launching
