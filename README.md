@@ -27,7 +27,7 @@ AMY has the following features:
 2. Ensure you have the required Python libraries installed by running:
 
 3. Run the script by executing the following command:
-    python Amy.py
+   - python Amy.py
 
 4. AMY will greet you and wait for your commands. Speak to AMY, and it will respond accordingly.
 
