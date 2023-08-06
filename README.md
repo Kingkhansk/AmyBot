@@ -24,10 +24,7 @@ AMY has the following features:
 ## Usage
 
 1. Clone the repository or download the script from [here](URL-to-the-script).
-2. Ensure you have the required Python libraries installed by running:
-
-3. Run the script by executing the following command:
-   - python Amy.py
+2. Ensure you have the required Python libraries installed by running
    - pip install openai
    - pip install python-dotenv
    - pip install SpeechRecognition
@@ -36,6 +33,10 @@ AMY has the following features:
    - pip install pyautogui
    - pip install pygame
    - pip install selenium
+
+3. Run the script by executing the following command:
+   - python Amy.py
+   
 
 4. AMY will greet you and wait for your commands. Speak to AMY, and it will respond accordingly.
 
@@ -57,9 +58,13 @@ AMY has the following features:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [AutiTech](LICENSE).
 
 ## Acknowledgments
 
-AMY was created by [Your Name or Team Name] for [Your Project Name or Course] at [Your University or Organization].
+AMY was created by [Team AutiTech] including members.
+  - Saeed Bin Fareed
+  - Jari Abbas Rizvi
+  - Syed Sharjeel Abbas
+  - Dheeraj Dhanji
 
