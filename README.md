@@ -28,6 +28,14 @@ AMY has the following features:
 
 3. Run the script by executing the following command:
    - python Amy.py
+   - pip install openai
+   - pip install python-dotenv
+   - pip install SpeechRecognition
+   - pip install googletrans==3.1.0a0
+   - pip install pyaudio
+   - pip install pyautogui
+   - pip install pygame
+   - pip install selenium
 
 4. AMY will greet you and wait for your commands. Speak to AMY, and it will respond accordingly.
 
