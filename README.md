@@ -25,20 +25,21 @@ AMY has the following features:
 
 1. Clone the repository or download the script from [here](https://github.com/Kingkhansk/AmyBot.git).
 2. Ensure you have the required Python libraries installed by running
-   - pip install openai
-   - pip install python-dotenv
-   - pip install SpeechRecognition
-   - pip install googletrans==3.1.0a0
-   - pip install pyaudio
-   - pip install pyautogui
-   - pip install pygame
-   - pip install selenium
-
-3. Run the script by executing the following command:
-   - python Amy.py
-   
-
-4. AMY will greet you and wait for your commands. Speak to AMY, and it will respond accordingly.
+```
+   pip install openai
+   pip install python-dotenv
+   pip install SpeechRecognition
+   pip install googletrans==3.1.0a0
+   pip install pyaudio
+   pip install pyautogui
+   pip install pygame
+   pip install selenium
+```
+4. Run the script by executing the following command:
+```
+   python Amy.py
+```
+6. AMY will greet you and wait for your commands. Speak to AMY, and it will respond accordingly.
 
 ## Available Commands
 
